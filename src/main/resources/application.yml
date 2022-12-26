@@ -1,0 +1,7 @@
+aws:
+  dynamodb:
+    endpoint: https://dynamodb.us-east-1.amazonaws.com
+  access:
+    key: AKIAU4GUXJLYFHFIQ4PX
+    secret-key: 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
+  region: us-east-1
